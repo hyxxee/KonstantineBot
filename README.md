@@ -1,2 +1,1 @@
-# MarBotRep
-MarBot discord
+# MarBot
